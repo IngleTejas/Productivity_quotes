@@ -1,7 +1,9 @@
 {
     "name": "Motivation",
     "version": "1.1.2",
+    "description": "Daily random Motivational Quotes for productive you...",
     "manifest_version": 3,
+    "author": "Tejas R. Ingle",
     "action": {
         "default_popup": "popup.html",
         "default_icon": "logo.png"
